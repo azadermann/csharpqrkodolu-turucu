@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.exe
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.deps.json
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.dll
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QrKodOluşturucu.pdb
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\bin\Debug\netcoreapp3.1\QRCoder.dll
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.Form1.resources
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.dll
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.pdb
+C:\Users\Lenovo\Desktop\Okul Uyglamalar\QrKodOluşturucu\QrKodOluşturucu\obj\Debug\netcoreapp3.1\QrKodOluşturucu.genruntimeconfig.cache
